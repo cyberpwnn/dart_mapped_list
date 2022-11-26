@@ -1,0 +1,6 @@
+name: mapped_list
+description: Use Map<int, T> instead of List<T> for json patching efficiency, an extension for maps to use list methods on them when the key is an int (index)
+version: 1.0.0
+homepage: https://github.com/ArcaneArts/mapped_list
+environment:
+  sdk: '>=2.18.4 <3.0.0'
